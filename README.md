@@ -10,4 +10,4 @@ To start
 
 Enjoy the build!
 
-![](Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-02-03%20at%2014.19.39.png)
+<img src='demo.png' width='100' />
