@@ -9,3 +9,5 @@ To start
 3. Launch the app on Web, iOS or Android using the expo CLI or interface! (Check Expo docs for more information)
 
 Enjoy the build!
+
+![](Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-02-03%20at%2014.19.39.png)
